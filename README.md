@@ -24,7 +24,7 @@ Please organize your .tif raster data according to the following directory struc
 
 data_dir/
 ├── ERA5_2m/                 # Coarse Resolution
-├── CLDAS_2m/                # Fine Resolution - training)
+├── CLDAS_2m/                # Fine Resolution - training
 ├── DEM/
 │   └── dem_1km.tif          
 └── Land_use/
